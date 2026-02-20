@@ -91,14 +91,19 @@ This visualization ranks countries by compound annual reduction rate.
 Speed of improvement over time.
 
 ##### Key Findings
-- Countries such as Uzbekistan, Kazakhstan, and Yemen show significant percentage reductions.
-- Sustained multi-year declines indicate structural policy or operational improvements.
-- Large percentage reductions may reflect:
-  - Flaring capture infrastructure investments
-  - Regulatory enforcement
-  - Reduced production volumes
+
+- **Uzbekistan is the fastest improver (most negative CAGR, ~-12%/yr)**. This means it reduced flaring at the quickest average annual rate over the period.
+
+- **Kazakhstan and Yemen also show very strong improvement rates (around -10% and -9% per year)**, meaning their flaring levels fell rapidly relative to where they started.
+
+- **Countries like United Kingdom and Indonesia appear high on this list** even though they may not be the biggest flarers globally—because this ranking is about rate of reduction, not total volume.
+
+- **The later entries (Brazil, Egypt, Angola) are still improving**, but at a slower yearly pace (around -4%/yr). They are reducing flaring, just not as aggressively as the top countries.
+
+Fastest improvement is concentrated in countries that achieved sustained year-on-year reductions, indicating strong operational upgrades, enforcement, or gas utilization investments.
  
 ⚠️ Smaller initial volumes can exaggerate percentage changes.
+
 
 #### 2️⃣ Largest Absolute Reductions (bcm)
 
@@ -111,9 +116,16 @@ This visualization ranks countries by total flaring reduction in volume terms.
 Total contribution to global flaring reduction.
 
 ##### Key Findings
-- Nigeria and Kazakhstan recorded large absolute reductions.
-- Even moderate percentage declines in high-flaring countries create large environmental impact.
-- Scale matters more than rate when assessing global emissions reduction impact.
+- **Nigeria shows the largest absolute reduction in flaring volume (biggest drop in bcm)**. This means Nigeria delivered the most “real-world” reduction in total gas flared among the top reducers.
+
+- **Kazakhstan and Indonesia also reduced large volumes**, suggesting that improvements occurred in countries with historically significant flaring.
+
+**This chart highlights impact at scale: countries can reduce a lot of flaring volume even if their percentage reduction is not the fastest.**
+
+- **Some countries (e.g., United Kingdom, Yemen)** appear here with smaller absolute reductions—showing that they improved, but their total flaring volumes were lower compared to major flaring countries.
+
+Absolute reductions identify where the largest emissions and waste savings occurred, which is more relevant for global impact than growth-rate rankings.
+
 
 #### 3️⃣ Time-Series Trends (2012–2024)
 
@@ -122,8 +134,13 @@ Total contribution to global flaring reduction.
 A trend visualization tracks flaring changes year-by-year.
 
 ##### Observations
-- Several countries show steady structural decline.
-- Some exhibit volatility linked to:
+
+**Uzbekistan and Kazakhstan** lead in the speed of improvement, while Nigeria and Kazakhstan lead in total volume reduced, showing that the fastest improvers are not always the largest contributors by volume.
+
+**Several countries show steady structural decline.**
+
+**Some exhibit volatility linked to:**
+
   - Oil production fluctuations
   - Infrastructure expansion delays
   - Policy shifts
@@ -137,21 +154,21 @@ A trend visualization tracks flaring changes year-by-year.
 5. Flaring reduction progress remains uneven across producers.
 
 ## Limitations
-1. The analysis does not adjust for:
+**1. The analysis does not adjust for:**
 - Oil production levels
 - Changes in associated gas output
 - Field maturity differences
   
-2. Reductions may result from:
+**2. Reductions may result from:**
 - Production declines rather than improved gas capture.
 
-3. Data does not distinguish between:
+**3. Data does not distinguish between:**
 - Routine flaring
 - Emergency flaring
 
-4. 2024 data may be provisional.
+**4. 2024 data may be provisional.**
 
-5. Environmental impact (CO₂ equivalent) was not directly calculated.
+**5. Environmental impact (CO₂ equivalent) was not directly calculated.**
 
 ## Conclusion
 Between 2012 and 2024, several oil-producing countries demonstrated measurable progress in reducing gas flaring.
