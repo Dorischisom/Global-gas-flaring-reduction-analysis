@@ -58,13 +58,16 @@ Steps performed:
 - Total / aggregated rows
 
 3. Reshaped data from wide to long format
+   
 4. Filtered years between 2012 and 2024
+   
 5. Calculated reduction metrics:
 - Absolute change (bcm)
 - Percentage change (%)
 - Compound annual reduction rate (CAGR)
   
 Reduction Formulas Used
+
 ```wide["abs_change_bcm"] = wide[2024] - wide[2012]```
 ```wide["pct_change_%"] = (wide[2024] / wide[2012] - 1) * 100```
 ```wide["cagr_%"] = ((wide[2024] / wide[2012]) ** (1/12) - 1) * 100```
@@ -77,6 +80,9 @@ Negative values indicate flaring reduction.
 ## 📊 Analysis & Visualizations
 
 #### 1️⃣ Fastest Percentage Reductions (CAGR %)
+
+![Fastest Percentage Reductions (CAGR %)](Fastest_Reducers/Fastest_Reducers.png)
+
 
 This visualization ranks countries by compound annual reduction rate.
 
@@ -96,6 +102,8 @@ Speed of improvement over time.
 
 #### 2️⃣ Largest Absolute Reductions (bcm)
 
+![Largest Absolute Reductions (bcm)](Largest_Reducers/Largest_Reducers.png)
+
 This visualization ranks countries by total flaring reduction in volume terms.
 
 ##### 📌 What this measures:
@@ -108,6 +116,8 @@ Total contribution to global flaring reduction.
 - Scale matters more than rate when assessing global emissions reduction impact.
 
 #### 3️⃣ Time-Series Trends (2012–2024)
+
+![Time-Series Trends (2012–2024)](Trend_Analysis/Trend_Analysis.png)
 
 A trend visualization tracks flaring changes year-by-year.
 
