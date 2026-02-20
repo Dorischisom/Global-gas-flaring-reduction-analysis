@@ -1,7 +1,7 @@
 # Which Countries Are Improving Fastest in Reducing Gas Flaring? (2012–2024)
 
 ## 📌 Business Problem
-Gas flaring — the burning of associated gas during oil production — remains a major environmental and economic issue. 
+Gas flaring - the burning of associated gas during oil production — remains a major environmental and economic issue. 
 
 It contributes to:
 - CO₂ and methane emissions
@@ -65,6 +65,9 @@ Steps performed:
 - Absolute change (bcm)
 - Percentage change (%)
 - Compound annual reduction rate (CAGR)
+
+ [View Full Analysis Here](Full_Analysis3/Full_Analysis3.ipynb)
+
   
 Reduction Formulas Used
 
