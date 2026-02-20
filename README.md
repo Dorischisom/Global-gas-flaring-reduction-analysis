@@ -79,7 +79,8 @@ Negative values indicate flaring reduction.
 
 ## 📊 Analysis & Visualizations
 
-#### 1️⃣ Fastest Percentage Reductions (CAGR %)
+
+## 1️⃣ Fastest Percentage Reductions (CAGR %)
 
 ![Fastest Percentage Reductions (CAGR %)](Fastest_Reducers/Fastest_Reducers.png)
 
@@ -105,7 +106,8 @@ Fastest improvement is concentrated in countries that achieved sustained year-on
 ⚠️ Smaller initial volumes can exaggerate percentage changes.
 
 
-#### 2️⃣ Largest Absolute Reductions (bcm)
+
+## 2️⃣ Largest Absolute Reductions (bcm)
 
 ![Largest Absolute Reductions (bcm)](Largest_Reducers/Largest_Reducers.png)
 
@@ -127,7 +129,7 @@ Total contribution to global flaring reduction.
 Absolute reductions identify where the largest emissions and waste savings occurred, which is more relevant for global impact than growth-rate rankings.
 
 
-#### 3️⃣ Time-Series Trends (2012–2024)
+## 3️⃣ Time-Series Trends (2012–2024)
 
 ![Time-Series Trends (2012–2024)](Trend_Analysis/Trend_Analysis.png)
 
