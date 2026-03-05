@@ -1,7 +1,7 @@
 # Which Countries Are Improving Fastest in Reducing Gas Flaring? (2012–2024)
 
-## 📌 Business Problem
-Gas flaring - the burning of associated gas during oil production — remains a major environmental and economic issue. 
+## Business Problem
+Gas flaring - the burning of associated gas during oil production remains a major environmental and economic issue. 
 
 It contributes to:
 - CO₂ and methane emissions
@@ -15,7 +15,7 @@ This project answers the central question:
 
 **Which countries have improved the fastest in reducing gas flaring between 2012 and 2024?**
 
-## 🎯 Objective
+## Objective
 To identify and rank countries based on:
 - Absolute reduction in flaring volume (billion cubic meters, bcm)
 - Percentage reduction
@@ -27,8 +27,8 @@ The goal is to distinguish between:
 - Countries with short-term or inconsistent declines
 
 
-## 📂 Data Source
-- Gas flaring data (billion cubic meters — bcm) was obtained from:
+## Data Source
+- Gas flaring data (billion cubic meters bcm) was obtained from:
 
 **World Bank Global Gas Flaring Tracker**
 
@@ -80,7 +80,7 @@ CAGR was calculated across a 12-year period.
 Negative values indicate flaring reduction.
 
 
-## 📊 Analysis & Visualizations
+## Analysis & Visualizations
 
 
 ## 1️⃣ Fastest Percentage Reductions (CAGR %)
@@ -116,7 +116,7 @@ Fastest improvement is concentrated in countries that achieved sustained year-on
 
 This visualization ranks countries by total flaring reduction in volume terms.
 
-##### 📌 What this measures:
+##### What this measures:
 
 Total contribution to global flaring reduction.
 
