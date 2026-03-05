@@ -127,7 +127,7 @@ Total contribution to global flaring reduction.
 
 **This chart highlights impact at scale: countries can reduce a lot of flaring volume even if their percentage reduction is not the fastest.**
 
-- **Some countries (e.g., United Kingdom, Yemen)** appear here with smaller absolute reductions—showing that they improved, but their total flaring volumes were lower compared to major flaring countries.
+- **Some countries (e.g., United Kingdom, Yemen)** appear here with smaller absolute reductions showing that they improved, but their total flaring volumes were lower compared to major flaring countries.
 
 Absolute reductions identify where the largest emissions and waste savings occurred, which is more relevant for global impact than growth-rate rankings.
 
